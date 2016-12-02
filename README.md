@@ -11,7 +11,7 @@ $ composer require faustbrian/eloquent-models
 ## Usage
 
 ``` php
-To-Do...
+...
 ```
 
 ## Security
